@@ -1,0 +1,4 @@
+VER 3 0000000000000001 "Tar" "132092"
+/tar slitherblade sorceress
+/run SetRaidTarget("target",8)
+END

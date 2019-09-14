@@ -1,0 +1,13 @@
+
+AtlasLootClassicDB = {
+	["profileKeys"] = {
+		["Nishiki - Ashkandi"] = "Nishiki - Ashkandi",
+	},
+	["global"] = {
+		["__addonrevision"] = 1010009,
+	},
+	["profiles"] = {
+		["Nishiki - Ashkandi"] = {
+		},
+	},
+}

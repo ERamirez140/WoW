@@ -1,0 +1,24 @@
+ClassicAutoQuest: enabled
+Guidelime: enabled
+Guidelime_Bustea's 1-60 leveling: enabled
+Guidelime_Ettern: enabled
+MonkeyLibrary: enabled
+MonkeyQuest: enabled
+MonkeyQuestLog: enabled
+OmniCC: enabled
+OmniCC_Config: enabled
+TidyPlates_ThreatPlates: enabled
+DBM-Core: enabled
+DBM-DefaultSkin: enabled
+DBM-GUI: enabled
+DBM-StatusBarTimers: enabled
+DBM-Azeroth: enabled
+DBM-BWL: enabled
+DBM-MC: enabled
+DBM-Naxx: enabled
+DBM-Onyxia: enabled
+DBM-Party-Classic: enabled
+DBM-AQ20: enabled
+DBM-AQ40: enabled
+DBM-ZG: enabled
+Questie: enabled
